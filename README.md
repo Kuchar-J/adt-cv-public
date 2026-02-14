@@ -8,7 +8,7 @@
 | cv 03      | Aplikace pro analýzu dat z prodejen obchodního řetězce | aplikace dist; set        |
 | cv 05      | __ZÁPOČET 1__                                          |                           |
 | cv 06      | Framework pro simulaci systému hromadné obsluhy        | Objekty, čas              |
-| cv 07      | Sudoku  (mozna nahradit jednodušším)                   | Backtracking, 2d pole     |
+| cv 07      | Sudoku                                                 | Backtracking, 2d pole     |
 | cv 08      | Playlist na párty                                      | BT, DP, knapsack          |
 | cv 09      | __ZÁPOČET 2__                                          |                           |
 | cv 10      | Kostra grafu                                           | Prim-Jarník               |
